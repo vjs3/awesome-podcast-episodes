@@ -22,6 +22,6 @@ List of some of the most informational podcast episodes I have listened (WIP)
 
 ## General Advice
 
-- [Random] (url)
-- [Random] (url)
-- [Random] (url)
+- [Random](url)
+- [Random](url)
+- [Random](url)

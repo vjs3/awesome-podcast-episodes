@@ -5,7 +5,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 ## JavaScript
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/)
-- [Typed JavaScript with TypeScript and Flow with Author of TypeScript](https://javascriptair.com/episodes/2016-08-31/)
+- [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/)
 - [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann)
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/)
 - []()

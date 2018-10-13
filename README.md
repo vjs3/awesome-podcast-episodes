@@ -28,3 +28,9 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more)
 - [What Software Developers (and Therefore Every Company) Need](https://a16z.com/2016/01/06/a16z-podcast-what-software-developers-and-therefore-every-company-need-2/)
 - [State of Programming with Jeff Atwood](https://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/)
+
+## Miscellaneous
+
+- [Random](url)
+- [Random](url)
+- [Random](url)

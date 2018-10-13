@@ -33,3 +33,4 @@ List of some of the most informational podcast episodes I have listened (WIP)
 
 - [Airbnb Engineering with Surabhi Gupta](https://softwareengineeringdaily.com/2018/10/08/airbnb-engineering-with-surabhi-gupta/)
 - [DEV Community with Ben Halpern (CEO, dev.to)](https://softwareengineeringdaily.com/2018/09/17/dev-community-with-ben-halpern/)
+- [Free Code Camp with Quincy Larson](https://softwareengineeringdaily.com/2015/10/28/free-code-camp-with-quincy-larson/)

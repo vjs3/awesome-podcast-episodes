@@ -12,14 +12,14 @@ List of some of the most informational podcast episodes I have listened (WIP)
 
 ## HTML/CSS
 
-- [Random](url)
-- [Random](url)
+- [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem)
+- [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free)
 - [Random](url)
 
-## General Software Development Topics
+## General Web Development Topics
 
 - [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/)
-- [Random](url)
+- [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/)
 - [Random](url)
 
 ## Advice for developers

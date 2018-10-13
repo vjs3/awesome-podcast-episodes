@@ -22,6 +22,6 @@ List of some of the most informational podcast episodes I have listened (WIP)
 
 ## General Advice
 
-- [Random](url)
+- [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more)
 - [Random](url)
 - [Random](url)

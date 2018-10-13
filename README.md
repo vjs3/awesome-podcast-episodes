@@ -9,6 +9,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann)
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/)
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
+- [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
 
 ## HTML/CSS
 

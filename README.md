@@ -31,6 +31,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Getting better offers as an engineer (salary negotiations and more)](http://frontendhappyhour.com/episodes/ninja-rockstar-whiskey-drinker-with-10-years-ipa-experience/)
 - [Interview experiences of Frontend Developers](http://frontendhappyhour.com/episodes/interviews-make-us-drink/)
 - [Experience in Big Companies vs Startups](http://frontendhappyhour.com/episodes/shots-to-growlers-finding-the-right-size-drink/)
+- (Role of Mentors in growth of developer career)[http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/]
 
 ## Miscellaneous
 

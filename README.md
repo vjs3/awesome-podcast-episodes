@@ -10,6 +10,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/)
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
+- [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/)
 
 ## HTML/CSS
 

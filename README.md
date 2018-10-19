@@ -11,6 +11,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/)
+- [The React Episode](https://syntax.fm/show/066/the-react-episode)
 
 ## HTML/CSS
 

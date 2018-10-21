@@ -37,6 +37,8 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Role of Mentors in growth of developer career](http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/)
 - [Work life balance for developers](http://frontendhappyhour.com/episodes/work-hard-drink-hard/)
 - [Transition from Mid to Senior Level Developer](https://spec.fm/podcasts/developer-tea/36962)
+- [From coding bootcamp to software engineer at Asana](https://learntocodewith.me/podcast/bootcamp-to-engineer-with-joshua-penman/)
+- [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/)
 
 ## Miscellaneous
 

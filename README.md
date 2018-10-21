@@ -36,6 +36,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Experience in Big Companies vs Startups](http://frontendhappyhour.com/episodes/shots-to-growlers-finding-the-right-size-drink/)
 - [Role of Mentors in growth of developer career](http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/)
 - [Work life balance for developers](http://frontendhappyhour.com/episodes/work-hard-drink-hard/)
+- [Transition from Mid to Senior Level Developer](https://spec.fm/podcasts/developer-tea/36962)
 
 ## Miscellaneous
 

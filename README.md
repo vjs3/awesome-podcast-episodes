@@ -39,6 +39,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [Transition from Mid to Senior Level Developer](https://spec.fm/podcasts/developer-tea/36962)
 - [From coding bootcamp to software engineer at Asana](https://learntocodewith.me/podcast/bootcamp-to-engineer-with-joshua-penman/)
 - [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/)
+- [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/)
 
 ## Miscellaneous
 

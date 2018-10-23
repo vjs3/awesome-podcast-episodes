@@ -41,6 +41,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/)
 - [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/)
 - [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume)
+- [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview)
 
 ## Miscellaneous
 

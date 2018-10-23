@@ -40,6 +40,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [From coding bootcamp to software engineer at Asana](https://learntocodewith.me/podcast/bootcamp-to-engineer-with-joshua-penman/)
 - [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/)
 - [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/)
+- [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume)
 
 ## Miscellaneous
 

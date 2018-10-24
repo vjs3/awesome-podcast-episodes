@@ -13,6 +13,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/)
 - [The React Episode](https://syntax.fm/show/066/the-react-episode)
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
+- [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)
 
 ## HTML/CSS
 

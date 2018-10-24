@@ -2,6 +2,8 @@
 
 This is a list of some of the informational podcast episodes I have heard. Topics ranges from very beginner friendly episodes like starting to prepare for a technical interview to very advanced topics such as how internals of react works. The goal of the project is to provide a good place for developers to find a podcast episode on particular topic of their interest in place of searching among 100's of podcasts.
 
+Podcasts episodes are not just about technical knowledge but also about overall growth for developers like salary negotiations, ethics, work life balance and more.
+
 ## JavaScript
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/)
@@ -55,3 +57,4 @@ This is a list of some of the informational podcast episodes I have heard. Topic
 - [Netflix, Microsoft, Evernote engineer answers to Listener AMA](http://frontendhappyhour.com/episodes/amazing-manhattans-anywhere/)
 - [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo)
 - [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
+- [Deep dive on Software Engineer vs Sales Engineer]()

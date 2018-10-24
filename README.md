@@ -58,3 +58,4 @@ Podcasts episodes are not just about technical knowledge but also about overall 
 - [Netflix, Microsoft, Evernote engineer answers to Listener AMA](http://frontendhappyhour.com/episodes/amazing-manhattans-anywhere/)
 - [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo)
 - [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
+- [Interview with VP of Engineering at Reddit](https://breakingintostartups.com/68-nick-caldwell-vp-engineering-reddit/)

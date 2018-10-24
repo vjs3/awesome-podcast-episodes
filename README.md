@@ -14,6 +14,7 @@ List of some of the most informational podcast episodes I have listened (WIP)
 - [The React Episode](https://syntax.fm/show/066/the-react-episode)
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
 - [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)
+- [React and Electron with James Long](https://reactpodcast.simplecast.fm/7)
 
 ## HTML/CSS
 

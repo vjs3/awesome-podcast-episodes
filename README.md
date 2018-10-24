@@ -1,6 +1,6 @@
-# Useful podcast episodes for web-developers
+# Useful podcast episodes for developers
 
-List of some of the most informational podcast episodes I have listened (WIP)
+This is a list of some of the informational podcast episodes I have heard. Topics ranges from very beginner friendly episodes like starting to prepare for a technical interview to very advanced topics such as how internals of react works. The goal of the project is to provide a good place for developers to find a podcast episode on particular topic of their interest in place of searching among 100's of podcasts.  
 
 ## JavaScript
 

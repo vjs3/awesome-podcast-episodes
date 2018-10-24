@@ -44,6 +44,7 @@ This is a list of some of the informational podcast episodes I have heard. Topic
 - [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/)
 - [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume)
 - [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview)
+- [Why you should focus on fundamentals first](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/)
 
 ## Miscellaneous
 

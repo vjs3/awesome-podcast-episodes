@@ -28,6 +28,7 @@ Podcasts episodes are not just about technical knowledge but also about overall 
 - [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/)
 - [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/)
 - [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/)
+- [Deep dive on Software Engineer vs Sales Engineer](https://breakingintostartups.com/pavan-ravipati-solutions-engineer/)
 
 ## Advice for developers
 
@@ -57,4 +58,3 @@ Podcasts episodes are not just about technical knowledge but also about overall 
 - [Netflix, Microsoft, Evernote engineer answers to Listener AMA](http://frontendhappyhour.com/episodes/amazing-manhattans-anywhere/)
 - [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo)
 - [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
-- [Deep dive on Software Engineer vs Sales Engineer]()

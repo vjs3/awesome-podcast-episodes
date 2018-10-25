@@ -60,3 +60,4 @@ Podcasts episodes are not just about technical knowledge but also about overall 
 - [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
 - [Interview with VP of Engineering at Reddit](https://breakingintostartups.com/68-nick-caldwell-vp-engineering-reddit/)
 - [Google JavaScript and AMP](https://softwareengineeringdaily.com/2018/10/22/google-javascript-with-malte-ubl/)
+- [Open Source at Facebook](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/)

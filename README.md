@@ -28,9 +28,8 @@ If you want to get a list of all the available podcast shows out there, you can 
 ## General Web Development Topics
 
 - [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - Lin talks about What is WebAssembly and how its going to effect the future of web development, its implementation, performance compared to JavaScript driven web and other advantages of WebAssembly.
-- [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/)
+- [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Diving into Serverless architecture, AWS ecosystem and AWS lambda.
 - [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/) - Discussion with the Netflix team about how they changed monolith architecture to microservice based architecture.
-- [Deep dive on Software Engineer vs Sales Engineer](https://breakingintostartups.com/pavan-ravipati-solutions-engineer/)
 
 ## Advice for developers
 

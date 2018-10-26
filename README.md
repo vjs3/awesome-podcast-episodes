@@ -4,7 +4,7 @@ This is a list of some of the most informational and helpful podcast episodes I 
 
 Podcasts episodes are not just about technical knowledge but also about overall growth for developers like salary negotiations, ethics, work-life balance and more.
 
-You can find list of awesome podcasts [here](https://github.com/guipdutra/awesome-geek-podcasts).
+If you want to get a list of all the available podcast shows out there, you can find them [here](https://github.com/guipdutra/awesome-geek-podcasts).
 
 ## JavaScript
 

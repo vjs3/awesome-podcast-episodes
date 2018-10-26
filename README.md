@@ -37,19 +37,19 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more)
 - [What Software Developers (and Therefore Every Company) Need](https://a16z.com/2016/01/06/a16z-podcast-what-software-developers-and-therefore-every-company-need-2/)
 - [State of Programming with Jeff Atwood](https://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/)
-- [Marketing for Developers](https://syntax.fm/show/052/marketing-for-developers)
-- [Getting better offers as an engineer (salary negotiations and more)](http://frontendhappyhour.com/episodes/ninja-rockstar-whiskey-drinker-with-10-years-ipa-experience/)
+- [Marketing for Developers](https://syntax.fm/show/052/marketing-for-developers) - Discussion about creating a personal brand as a developer and how successful developers market themselves for better opportunities.
+- [Getting better offers as an engineer (salary negotiations and more)](http://frontendhappyhour.com/episodes/ninja-rockstar-whiskey-drinker-with-10-years-ipa-experience/) - Salary negotiations during job interviews, how to get better at it and how to apporach these topics.
 - [Interview experiences of Frontend Developers](http://frontendhappyhour.com/episodes/interviews-make-us-drink/) - Panel from Netflix, Evernote and LinkedIn engineers talks about their worst and best interview experiences.
-- [Experience in Big Companies vs Startups](http://frontendhappyhour.com/episodes/shots-to-growlers-finding-the-right-size-drink/)
-- [Role of Mentors in growth of developer career](http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/)
-- [Work life balance for developers](http://frontendhappyhour.com/episodes/work-hard-drink-hard/)
-- [Transition from Mid to Senior Level Developer](https://spec.fm/podcasts/developer-tea/36962)
-- [From coding bootcamp to software engineer at Asana](https://learntocodewith.me/podcast/bootcamp-to-engineer-with-joshua-penman/)
-- [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/)
-- [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/)
-- [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume)
-- [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview)
-- [Why you should focus on fundamentals first](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/)
+- [Experience in Big Companies vs Startups](http://frontendhappyhour.com/episodes/shots-to-growlers-finding-the-right-size-drink/) - Discussion about working as a developer in Big companies vs Startups from learning, finances to work-life balance.
+- [Role of Mentors in growth of developer career](http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/) - Discussion about Role of mentors in a career of a developer to reach from junior to senior level positions.
+- [Work life balance for developers](http://frontendhappyhour.com/episodes/work-hard-drink-hard/) - Discussion about work-life balance for developers and prevention of burnouts.
+- [Transition from Mid to Senior Level Developer](https://spec.fm/podcasts/developer-tea/36962) - Discussion about how to transision from Mid to Senior level Developer.
+- [From coding bootcamp to software engineer at Asana](https://learntocodewith.me/podcast/bootcamp-to-engineer-with-joshua-penman/) - Bootcamp grad Josh, talks about how he did his career change into software development and getting job at Asana, along with his interview experiences along the process.
+- [How to rock your technical interview](https://learntocodewith.me/podcast/technical-interviews-with-parker-phinney/) - Founder of Interview Cake talks about how to excel in a technical interview (particularly about algorithmic interviews).
+- [Different Tech Careers with CPO of Treehouse](https://learntocodewith.me/podcast/tech-careers/) - CPO of Treehouse talks about various career opportunities in tech besides software developement. 
+- [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume) - Discussion with a Recruiter about how companies scan the resumes and how to stand out.
+- [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview) - Deep dive on a technical interview for large software companies.
+- [Why you should focus on fundamentals first](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/) - Discussion about importance of learning fundamental principles and how to master them.
 
 ## Miscellaneous
 

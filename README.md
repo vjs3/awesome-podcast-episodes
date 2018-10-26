@@ -1,10 +1,10 @@
 # Awesome Podcast Episodes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a list of some of the most informational and helpful podcast episodes I have listened to as a developer. Topics range from very beginner friendly episodes like starting to prepare for a technical interview to very advanced topics such as how the internals of React works. The goal of the project is to provide a good place for developers to find a podcast episode on a particular topic of their interest.
+This is a curated list of some of the most informational and helpful podcast episodes I have listened to as a developer. The goal of this list is to provide a good place for developers to find a podcast episode on a particular topic of their interest instead of checking out a long list of episodes on individual podcasts.
 
-Podcasts episodes are not just about technical knowledge but also about overall growth for developers like salary negotiations, ethics, work-life balance and more.
+This list contains podcast episodes for beginners as well advanced developers. It also has episodes about salary negotiations, work-life balance and other, day to day topics of developer life.
 
-If you want to get a list of all the available podcast shows out there, you can find them [here](https://github.com/guipdutra/awesome-geek-podcasts).
+If you want to get a list of all the available podcast shows out there, you can find them [here](https://github.com/guipdutra/awesome-geek-podcasts). For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 ## JavaScript
 

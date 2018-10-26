@@ -53,13 +53,13 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 ## Miscellaneous
 
-- [Airbnb Engineering with Surabhi Gupta](https://softwareengineeringdaily.com/2018/10/08/airbnb-engineering-with-surabhi-gupta/) - Surabhi talks about the engineering infastructure inside Airbnb.
-- [DEV Community with Ben Halpern (CEO, dev.to)](https://softwareengineeringdaily.com/2018/09/17/dev-community-with-ben-halpern/)
-- [Free Code Camp with Quincy Larson](https://softwareengineeringdaily.com/2015/10/28/free-code-camp-with-quincy-larson/)
-- [The End (and Beginning) of Programming (from code to data)](https://a16z.com/2018/06/08/end-of-programming-from-code-to-data/)
-- [Netflix, Microsoft, Evernote engineer answers to Listener AMA](http://frontendhappyhour.com/episodes/amazing-manhattans-anywhere/)
-- [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo)
-- [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
-- [Interview with VP of Engineering at Reddit](https://breakingintostartups.com/68-nick-caldwell-vp-engineering-reddit/)
+- [Airbnb Engineering with Surabhi Gupta](https://softwareengineeringdaily.com/2018/10/08/airbnb-engineering-with-surabhi-gupta/) - Surabhi talks about the engineering infastructure inside Airbnb. Her experience from Google search and how different Airbnb search vs Google search.
+- [DEV Community with Ben Halpern (CEO, dev.to)](https://softwareengineeringdaily.com/2018/09/17/dev-community-with-ben-halpern/) - Ben talks about his motivation to start Dev community, running a open source business and his thoughts on open source social media networks.
+- [Free Code Camp with Quincy Larson](https://softwareengineeringdaily.com/2015/10/28/free-code-camp-with-quincy-larson/) - Quincy talks about why he started Free Code Camp, his coding journey, paid vs free bootcamp and all things Free Code Camp.
+- [The End (and Beginning) of Programming (from code to data)](https://a16z.com/2018/06/08/end-of-programming-from-code-to-data/) - Discussion on the future of programming and how data is becoming more important than code itself.
+- [Netflix, Microsoft, Evernote engineer answers to Listener AMA](http://frontendhappyhour.com/episodes/amazing-manhattans-anywhere/) - Answers to Linstener questions by Frontend Happy Hour panelists.
+- [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo) - Anil talks about importance of ethics in technology, his personal journey in the world of software. Creating companies such as Trello, StackOverflow, Glitch etc as part of FogCreek.
+- [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder) - Wesbos discusses his business, how he learns, creating courses, community engagements and various things about web development world.
+- [Interview with VP of Engineering at Reddit](https://breakingintostartups.com/68-nick-caldwell-vp-engineering-reddit/) - Nick talks about his personal journey to become VP at reddit,engineering challenges at reddit and day to day work of VP of engineering at reddit. 
 - [Google JavaScript and AMP](https://softwareengineeringdaily.com/2018/10/22/google-javascript-with-malte-ubl/) - Malte talks about the huge JavaScript infrastructure inside google, internal frameworks and more. He also talks in detail about working of AMP project.
-- [Open Source at Facebook](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/)
+- [Open Source at Facebook](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/) - Discussion about open source projects at Facebook. How Facebook decides to make a project open source and success of React.

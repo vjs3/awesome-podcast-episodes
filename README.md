@@ -22,8 +22,8 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 ## HTML/CSS
 
-- [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem)
-- [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free)
+- [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem) - Short discussion about CSS BEM naming convention and its usage in large projects.
+- [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and diffent libraries to do so.
 
 ## General Web Development Topics
 

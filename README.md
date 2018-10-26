@@ -4,6 +4,8 @@ This is a list of some of the informational podcast episodes I have heard. Topic
 
 Podcasts episodes are not just about technical knowledge but also about overall growth for developers like salary negotiations, ethics, work life balance and more.
 
+You can find list of awesome podcasts [here](https://github.com/guipdutra/awesome-geek-podcasts).
+
 ## JavaScript
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/)

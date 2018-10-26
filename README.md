@@ -53,7 +53,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 ## Miscellaneous
 
-- [Airbnb Engineering with Surabhi Gupta](https://softwareengineeringdaily.com/2018/10/08/airbnb-engineering-with-surabhi-gupta/)
+- [Airbnb Engineering with Surabhi Gupta](https://softwareengineeringdaily.com/2018/10/08/airbnb-engineering-with-surabhi-gupta/) - Surabhi talks about the engineering infastructure inside Airbnb.
 - [DEV Community with Ben Halpern (CEO, dev.to)](https://softwareengineeringdaily.com/2018/09/17/dev-community-with-ben-halpern/)
 - [Free Code Camp with Quincy Larson](https://softwareengineeringdaily.com/2015/10/28/free-code-camp-with-quincy-larson/)
 - [The End (and Beginning) of Programming (from code to data)](https://a16z.com/2018/06/08/end-of-programming-from-code-to-data/)
@@ -61,5 +61,5 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [Ethics in tech from CEO of FogCreek](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo)
 - [The JavaScript First Responder with Wesbos](https://www.codenewbie.org/podcast/the-javascript-first-responder)
 - [Interview with VP of Engineering at Reddit](https://breakingintostartups.com/68-nick-caldwell-vp-engineering-reddit/)
-- [Google JavaScript and AMP](https://softwareengineeringdaily.com/2018/10/22/google-javascript-with-malte-ubl/)
+- [Google JavaScript and AMP](https://softwareengineeringdaily.com/2018/10/22/google-javascript-with-malte-ubl/) - Malte talks about the huge JavaScript infrastructure inside google, internal frameworks and more. He also talks in detail about working of AMP project.
 - [Open Source at Facebook](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/)

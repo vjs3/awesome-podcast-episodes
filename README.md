@@ -34,7 +34,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 ## Advice for developers
 
-- [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more)
+- [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more) - Helpful advice for beginner developers from tech skills, imposter syndrom, finding jobs and more.
 - [What Software Developers (and Therefore Every Company) Need](https://a16z.com/2016/01/06/a16z-podcast-what-software-developers-and-therefore-every-company-need-2/)
 - [State of Programming with Jeff Atwood](https://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/)
 - [Marketing for Developers](https://syntax.fm/show/052/marketing-for-developers) - Discussion about creating a personal brand as a developer. Wesbos and Scott talks about their marketing strategies for their businesses.

@@ -27,9 +27,9 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 ## General Web Development Topics
 
-- [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - Lin talks about What is WebAssembly and how its going to effect the future of web development. She also talks about its implementation, performance compared to JavaScript driven web and other advantages of WebAssembly. 
+- [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - Lin talks about What is WebAssembly and how its going to effect the future of web development, its implementation, performance compared to JavaScript driven web and other advantages of WebAssembly.
 - [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/)
-- [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/)
+- [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/) - Discussion with the Netflix team about how they changed monolith architecture to microservice based architecture.
 - [Deep dive on Software Engineer vs Sales Engineer](https://breakingintostartups.com/pavan-ravipati-solutions-engineer/)
 
 ## Advice for developers
@@ -39,7 +39,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [State of Programming with Jeff Atwood](https://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/)
 - [Marketing for Developers](https://syntax.fm/show/052/marketing-for-developers)
 - [Getting better offers as an engineer (salary negotiations and more)](http://frontendhappyhour.com/episodes/ninja-rockstar-whiskey-drinker-with-10-years-ipa-experience/)
-- [Interview experiences of Frontend Developers](http://frontendhappyhour.com/episodes/interviews-make-us-drink/)
+- [Interview experiences of Frontend Developers](http://frontendhappyhour.com/episodes/interviews-make-us-drink/) - Panel from Netflix, Evernote and LinkedIn engineers talks about their worst and best interview experiences.
 - [Experience in Big Companies vs Startups](http://frontendhappyhour.com/episodes/shots-to-growlers-finding-the-right-size-drink/)
 - [Role of Mentors in growth of developer career](http://frontendhappyhour.com/episodes/from-bar-back-to-frontender/)
 - [Work life balance for developers](http://frontendhappyhour.com/episodes/work-hard-drink-hard/)

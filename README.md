@@ -35,7 +35,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 ## Advice for developers
 
 - [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more) - Helpful advice for beginner developers from tech skills, imposter syndrom, finding jobs and more.
-- [What Software Developers (and Therefore Every Company) Need](https://a16z.com/2016/01/06/a16z-podcast-what-software-developers-and-therefore-every-company-need-2/)
+- [What Software Developers (and Therefore Every Company) Need](https://a16z.com/2016/01/06/a16z-podcast-what-software-developers-and-therefore-every-company-need-2/) - Founders and CEO's of GitHub, Twilio and Digital Ocean talks about developer ecosystems, needs of software developers, developer tools and more.
 - [Marketing for Developers](https://syntax.fm/show/052/marketing-for-developers) - Discussion about creating a personal brand as a developer. Wesbos and Scott talks about their marketing strategies for their businesses.
 - [Getting better offers as an engineer (salary negotiations and more)](http://frontendhappyhour.com/episodes/ninja-rockstar-whiskey-drinker-with-10-years-ipa-experience/) - Salary negotiations during job interviews, how to get better at it and how to apporach these topics.
 - [Interview experiences of Frontend Developers](http://frontendhappyhour.com/episodes/interviews-make-us-drink/) - Panel from Netflix, Evernote and LinkedIn engineers talks about their worst and best interview experiences.

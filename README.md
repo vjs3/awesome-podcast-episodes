@@ -19,6 +19,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
 - [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)
 - [React and Electron with James Long](https://reactpodcast.simplecast.fm/7)
+- [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its usecases, hot reloading vs live reloading, and other things related to React ecosystem.
 
 ## HTML/CSS
 

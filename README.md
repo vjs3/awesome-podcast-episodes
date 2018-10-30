@@ -49,6 +49,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [How do tech companies read your resume?](https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume) - Discussion with a Recruiter about how companies scan the resumes and how to stand out.
 - [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview) - Deep dive on a technical interview for large software companies.
 - [Why you should focus on fundamentals first](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/) - Discussion about importance of learning fundamental principles and how to master them.
+- [Finding a Job Even If You’re Not a Senior Developer](https://devchat.tv/js-jabber/jsj-285-finding-job-even-youre-not-senior-developer-charles-max-wood/) - Detailed discussion about what potential employers look for in a developer, presenting your skills in resume, reaching out to companies and many other helpful topics for developers looking for their first jobs.
 
 ## Miscellaneous
 

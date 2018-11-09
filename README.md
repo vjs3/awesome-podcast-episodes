@@ -4,11 +4,9 @@ This is a curated list of some of the most informational and helpful podcast epi
 
 This list contains podcast episodes for beginners as well advanced developers. It also has episodes about salary negotiations, work-life balance and other, day to day topics of developer life.
 
-If you are planning to contribute to this list, make sure to read the [Contributions Guideline](contributing.md).
-
 If you want to get a list of all the available podcast shows out there, you can find them [here](https://github.com/guipdutra/awesome-geek-podcasts). For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
-If you have any suggestions/criticism for the list, feel free to create an issue here or you can also reach me out over [Twitter](https://twitter.com/vishwajeets3)
+Contributions are more than welcome, make sure to read the [Contributions Guideline](contributing.md). If you have any suggestions/criticism for the list, feel free to create an issue here or you can also reach me out over [Twitter](https://twitter.com/vishwajeets3)
 
 ## JavaScript
 

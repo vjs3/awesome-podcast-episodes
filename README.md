@@ -15,7 +15,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/)
-- [The React Episode](https://syntax.fm/show/066/the-react-episode)
+- [The React Episode](https://syntax.fm/show/066/the-react-episode) - In depth explaination of important concepts in React such as state, props, life cycle methods and more.
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
 - [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)
 - [React and Electron with James Long](https://reactpodcast.simplecast.fm/7)

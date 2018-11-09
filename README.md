@@ -12,7 +12,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for reating it and are of creating a programming language.
 - [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann) - Chris talks in detail about how to help newbies feel more welcome in the community, helping junior developers and javascript ecosystem in general.
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/) - Henry talks about creating Babel, its future, creating babel plugins. He also talked about leaving his job for doing open source full time and problems faced by open source maintainers.
-- [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
+- [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) - Discussion on modern day javascript tooling, ESLint, prettier, babel, webpack and others.
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
 - [The React Episode](https://syntax.fm/show/066/the-react-episode) - In depth explaination of important concepts in React such as state, props, life cycle methods and more.

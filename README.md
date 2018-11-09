@@ -17,7 +17,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
 - [The React Episode](https://syntax.fm/show/066/the-react-episode) - In depth explaination of important concepts in React such as state, props, life cycle methods and more.
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
-- [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)
+- [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13 - Discussion about GraphQL, Gatsby, future of these technologies. Kurt also talks about his past life and how being a prorgrammer significantly improved his life. 
 - [React and Electron with James Long](https://reactpodcast.simplecast.fm/7) - James, author of prettier, talks about his working with React, creating desktop applications using Electron.
 - [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its usecases, hot reloading vs live reloading, and other things related to React ecosystem.
 - [React with Pete Hunt and Jordan Walke](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke/) - In depth discussion about the core concepts and features in React from the early days. 

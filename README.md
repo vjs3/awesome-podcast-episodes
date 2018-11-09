@@ -14,7 +14,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/) - Henry talks about creating Babel, its future, creating babel plugins. He also talked about leaving his job for doing open source full time and problems faced by open source maintainers.
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)
-- [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/)
+- [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
 - [The React Episode](https://syntax.fm/show/066/the-react-episode) - In depth explaination of important concepts in React such as state, props, life cycle methods and more.
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11)
 - [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13)

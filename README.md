@@ -10,7 +10,7 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/)
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/)
-- [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann)
+- [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann) - Chris talks in detail about how to help newbies feel more welcome in the community, helping junior developers and javascript ecosystem in general.
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/)
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling)
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/)

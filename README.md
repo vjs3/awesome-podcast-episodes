@@ -10,7 +10,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 
 ## JavaScript
 
-- [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/) - Discussion about learning as well as teching javascript.
+- [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/) - Discussion about learning as well as teaching javascript to beginners.
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for reating it and are of creating a programming language.
 - [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann) - Chris talks in detail about how to help newbies feel more welcome in the community, helping junior developers and javascript ecosystem in general.
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/) - Henry talks about creating Babel, its future, creating babel plugins. He also talked about leaving his job for doing open source full time and problems faced by open source maintainers.

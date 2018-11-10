@@ -11,24 +11,24 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 ## JavaScript
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/) - Discussion about learning as well as teaching javascript to beginners.
-- [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for reating it and are of creating a programming language.
+- [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for creating it and challenges of creating a programming language.
 - [“You Learned JavaScript, Now What?” with Chris Heilmann](https://devchat.tv/js-jabber/jsj-332-you-learned-javascript-now-what-with-chris-heilmann) - Chris talks in detail about how to help newbies feel more welcome in the community, helping junior developers and javascript ecosystem in general.
 - [Babel with Henry Zhu (Creator of Babel)](https://softwareengineeringdaily.com/2018/06/21/babel-with-henry-zhu/) - Henry talks about creating Babel, its future, creating babel plugins. He also talked about leaving his job for doing open source full time and problems faced by open source maintainers.
-- [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) - Discussion on modern day javascript tooling, ESLint, prettier, babel, webpack and others.
+- [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) - Discussion on modern-day javascript tooling, ESLint, prettier, babel, webpack and others.
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/) - Laurie talks about Node, NPM, importance of package managers, what npm can do and NPM as a company.
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
-- [The React Episode](https://syntax.fm/show/066/the-react-episode) - In depth explaination of important concepts in React such as state, props, life cycle methods and more.
+- [The React Episode](https://syntax.fm/show/066/the-react-episode) - In-depth explanation of important concepts in React such as state, props, lifecycle methods and more.
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11) - Sophie talks about her first contributions to React, working of react core team and some of the internal workings of react.
-- [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13) - Discussion about GraphQL, Gatsby, future of these technologies. Kurt also talks about his past life and how being a prorgrammer significantly improved his life. 
+- [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13) - Discussion about GraphQL, Gatsby, future of these technologies. Kurt also talks about his past life and how being a programmer significantly improved his life. 
 - [React and Electron with James Long](https://reactpodcast.simplecast.fm/7) - James, author of prettier, talks about his working with React, creating desktop applications using Electron.
-- [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its usecases, hot reloading vs live reloading, and other things related to React ecosystem.
-- [React with Pete Hunt and Jordan Walke](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke/) - In depth discussion about the core concepts and features in React from the early days. 
+- [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its use cases, hot reloading vs live reloading, and other things related to React ecosystem.
+- [React with Pete Hunt and Jordan Walke](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke/) - In-depth discussion about the core concepts and features in React from the early days. 
 
 ## CSS
 
-- [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem) - Short discussion about CSS BEM naming convention and its usage in large projects.
-- [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and diffent libraries to do so.
-- [CSS Grids: The Future of Frontend Layout with Dave Geddes](https://devchat.tv/js-jabber/jsj-301-css-grids-future-frontend-layout-dave-geddes/) - Features of CSS Grids, differences from Flexbox, compatability with Flexbox, gamification based learning.
+- [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem) -  A short discussion about CSS BEM naming convention and its usage in large projects.
+- [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and different libraries to do so.
+- [CSS Grids: The Future of Frontend Layout with Dave Geddes](https://devchat.tv/js-jabber/jsj-301-css-grids-future-frontend-layout-dave-geddes/) - Features of CSS Grids, differences from Flexbox, compatibility with Flexbox, gamification based learning.
 
 ## General Web Development Topics
 

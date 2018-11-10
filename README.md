@@ -24,7 +24,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its usecases, hot reloading vs live reloading, and other things related to React ecosystem.
 - [React with Pete Hunt and Jordan Walke](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke/) - In depth discussion about the core concepts and features in React from the early days. 
 
-## HTML/CSS
+## CSS
 
 - [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem) - Short discussion about CSS BEM naming convention and its usage in large projects.
 - [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and diffent libraries to do so.

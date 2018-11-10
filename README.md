@@ -28,6 +28,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 
 - [All About CSS BEM!](https://syntax.fm/show/024/all-about-css-bem) - Short discussion about CSS BEM naming convention and its usage in large projects.
 - [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and diffent libraries to do so.
+- [CSS Grids: The Future of Frontend Layout with Dave Geddes](https://devchat.tv/js-jabber/jsj-301-css-grids-future-frontend-layout-dave-geddes/) - Features of CSS Grids, difference from Flexbox, working CSS Grids with FLexbox, gamification based learning.
 
 ## General Web Development Topics
 

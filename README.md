@@ -8,6 +8,15 @@ If you want to get a list of all the available podcast shows out there, you can 
 
 Contributions are more than welcome, make sure to read the [Contributions Guideline](contributing.md). If you have any suggestions/criticism for the list, feel free to create an issue here or you can also reach me out over [Twitter](https://twitter.com/vishwajeets3)
 
+## Contents
+
+- [JavaScript](#javascript)
+  - [React](#react)
+- [CSS](#css)
+- [General Web Development Topics](#general-web-development-topics)
+- [Advice for developers](#advice-for-developers)
+- [Miscellaneous](#miscellaneous)
+
 ## JavaScript
 
 - [Learning and Developing JavaScript](https://javascriptair.com/episodes/2015-12-16/) - Discussion about learning as well as teaching javascript to beginners.
@@ -16,6 +25,8 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) - Discussion on modern-day javascript tooling, ESLint, prettier, babel, webpack and others.
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/) - Laurie talks about Node, NPM, importance of package managers, what npm can do and NPM as a company.
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
+
+### React
 - [The React Episode](https://syntax.fm/show/066/the-react-episode) - In-depth explanation of important concepts in React such as state, props, lifecycle methods and more.
 - [Inside React with Sophie Alpert (Engineering Manager, React)](https://reactpodcast.simplecast.fm/11) - Sophie talks about her first contributions to React, working of react core team and some of the internal workings of react.
 - [Gatsby and GraphQL with Kurt Kemple](https://reactpodcast.simplecast.fm/13) - Discussion about GraphQL, Gatsby, future of these technologies. Kurt also talks about his past life and how being a programmer significantly improved his life.

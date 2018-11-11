@@ -31,7 +31,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 
 ## General Web Development Topics
 
-- [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - Lin talks about What is WebAssembly and how it's going to affect the future of web development, its implementation, performance compared to JavaScript-driven web and other advantages of WebAssembly.
+- [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - What is WebAssembly, how it's going to affect the future of web development, its implementation, performance compared to JavaScript-driven web and other advantages of WebAssembly.
 - [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Diving into Serverless architecture, AWS ecosystem and AWS lambda.
 - [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/) - Discussion with the Netflix team about how they changed monolith architecture to microservice based architecture.
 - [GraphQL? Here is what you need to know!](https://syntax.fm/show/027/graphql-here-is-what-you-need-to-know) - What is GraphQL? Differences from REST, Relay, Apollo, and other core concepts of GraphQL.

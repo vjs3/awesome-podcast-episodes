@@ -40,7 +40,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [CSS in JS](https://syntax.fm/show/010/css-in-js-drama-free) - Discussion about using CSS inside JavaScript, its pros/cons and different libraries to do so.
 - [CSS Grids: The Future of Frontend Layout with Dave Geddes](https://devchat.tv/js-jabber/jsj-301-css-grids-future-frontend-layout-dave-geddes/) - Features of CSS Grids, differences from Flexbox, compatibility with Flexbox, gamification based learning.
 
-## General Web Development Topics
+## Other Web Development Topics
 
 - [WebAssembly with Lin Clark](https://softwareengineeringdaily.com/2018/07/20/webassembly-with-lin-clark/) - What is WebAssembly, how it's going to affect the future of web development, its implementation, performance compared to JavaScript-driven web and other advantages of WebAssembly.
 - [Serverless Framework with Austen Collins](https://softwareengineeringdaily.com/2016/06/09/serverless-framework-austen-collins/) - Diving into Serverless architecture, AWS ecosystem and AWS lambda.

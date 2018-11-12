@@ -47,6 +47,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [All about Microservices with Netflix Team](https://a16z.com/2016/09/01/microservices/) - Discussion with the Netflix team about how they changed monolith architecture to microservice based architecture.
 - [GraphQL? Here is what you need to know!](https://syntax.fm/show/027/graphql-here-is-what-you-need-to-know) - What is GraphQL? Differences from REST, Relay, Apollo, and other core concepts of GraphQL.
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for creating it and challenges of creating a programming language.
+- [Whats the deal with npm, yarn and lock files?](https://syntax.fm/show/061/hasty-treat-whats-the-deal-with-npm-yarn-and-lock-files) - Short but informative epsiode about what is npm, yarn, their differences, lock files and how they work in developing applications.
 
 ## Advice for developers
 

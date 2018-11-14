@@ -69,6 +69,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [What happens in a technical interview?](https://www.codenewbie.org/podcast/what-happens-in-a-technical-interview) - Deep dive on a technical interview for large software companies.
 - [Why you should focus on fundamentals first](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/) - Discussion about the importance of learning fundamental principles and how to master them.
 - [Finding a Job Even If You’re Not a Senior Developer](https://devchat.tv/js-jabber/jsj-285-finding-job-even-youre-not-senior-developer-charles-max-wood/) - Detailed discussion about what potential employers look for in a developer, presenting your skills in a resume, reaching out to companies and many other helpful topics for developers looking for their first jobs.
+- [Hiring Engineers with Ammon Bartram, Co-founder of Triplebyte](https://softwareengineeringdaily.com/2015/12/23/hiring-engineers-with-ammon-bartram/) - Ammon talks about problems in hiring good engineers, what growing YCombinator companies look for in a engineer, how triplebyte helps engineers to find a job in YC companies.
 
 ## Miscellaneous
 

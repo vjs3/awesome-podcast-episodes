@@ -35,6 +35,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov/) - Dan talks about how he created Redux, its use cases, hot reloading vs live reloading, and other things related to React ecosystem.
 - [React with Pete Hunt and Jordan Walke](https://devchat.tv/js-jabber/073-jsj-react-with-pete-hunt-and-jordan-walke/) - In-depth discussion about the core concepts and features in React from the early days.
 - [React Router, Flux, and Web Debates with Michael Jackson](https://softwareengineeringdaily.com/2015/09/16/react-router-flux-and-web-debates-with-michael-jackson/) - What is a Router, why react router, flux architecture and how it works with React, web deabates on web componenets, react native.
+- [React Hooks](https://syntax.fm/show/092/react-hooks) - What are react hooks, what problems are they solving, detail discussion on useful hooks such as useEffect, useState, etc.
 
 ## CSS
 

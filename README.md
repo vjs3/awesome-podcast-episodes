@@ -25,6 +25,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [JavaScript Tooling](https://syntax.fm/show/004/javascript-tooling) - Discussion on modern-day javascript tooling, ESLint, prettier, babel, webpack and others.
 - [NPM with Laurie Voss (CTO, npm)](https://softwareengineeringdaily.com/2016/02/14/npm-with-laurie-voss/) - Laurie talks about Node, NPM, importance of package managers, what npm can do and NPM as a company.
 - [A flight of JavaScript frameworks](http://frontendhappyhour.com/episodes/a-flight-of-javascript-frameworks/) - Panel talks about all the popular javascript frameworks used by developers in the past and present and their experiences with working with them.
+- [20 JavaScript Array and Object Methods to make you a better developer](https://syntax.fm/show/043/20-javascript-array-and-object-methods-to-make-you-a-better-developer) - Explaination of various useful Array and object methods.
 
 ### React
 

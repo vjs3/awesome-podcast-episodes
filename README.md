@@ -53,6 +53,9 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for creating it and challenges of creating a programming language.
 - [Whats the deal with npm, yarn and lock files?](https://syntax.fm/show/061/hasty-treat-whats-the-deal-with-npm-yarn-and-lock-files) - Short but informative epsiode about what is npm, yarn, their differences, lock files and how they work in developing applications.
 
+## Data Structures/Algorithms
+- [S1:E5 "Linked Lists in Your Apartment"](https://www.codenewbie.org/basecs) - Explaination of what data structures are, what is linkedlist, its application, etc.
+
 ## Advice for developers
 
 - [Advice For Beginners - Tech Skills, Applying for Jobs, Focus, Imposter Syndrome + More](https://syntax.fm/show/058/advice-for-beginners-tech-skills-applying-for-jobs-focus-imposter-syndrome-more) - Helpful advice for beginner developers from tech skills, imposter syndrome, finding jobs and more.

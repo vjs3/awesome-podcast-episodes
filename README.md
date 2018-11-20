@@ -55,6 +55,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 
 ## Data Structures/Algorithms
 - [S1:E5 "Linked Lists in Your Apartment"](https://www.codenewbie.org/basecs) - Explaination of what data structures are, what is linkedlist, its application, etc.
+- [S1:E6 "A friendly intro to Big O Notation"](https://www.codenewbie.org/basecs) - What is big O notation, practical use cases, connection with Linked List.
 
 ## Advice for developers
 

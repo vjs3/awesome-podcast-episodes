@@ -54,6 +54,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Whats the deal with npm, yarn and lock files?](https://syntax.fm/show/061/hasty-treat-whats-the-deal-with-npm-yarn-and-lock-files) - Short but informative epsiode about what is npm, yarn, their differences, lock files and how they work in developing applications.
 
 ## Data Structures/Algorithms
+
 - [S1:E5 "Linked Lists in Your Apartment"](https://www.codenewbie.org/basecs) - Explaination of what data structures are, what is linkedlist, its application, etc.
 - [S1:E6 "A friendly intro to Big O Notation"](https://www.codenewbie.org/basecs) - What is big O notation, practical use cases, connection with Linked List.
 
@@ -92,3 +93,4 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Open Source at Facebook](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/) - Discussion about open source projects at Facebook. How Facebook decides to make a project open source and success of React.
 - [The Past, Present, and Future of Open Source](https://softwareengineeringdaily.com/2016/04/08/past-present-future-open-source/) - In this short episode, Nadia talks about origins of open source software, its journey till present days and future of open source.
 - [Productivity at Work](https://frontendhappyhour.com/episodes/a-mixologists-tools/) - Discussion about being productive at work, tools to use for it, how to find the zone of productivity and more things surrounding this topic.
+- [Reading Documentation](https://syntax.fm/show/073/hasty-treat-reading-documentation) - Tips on how to efficiently read various documentations.

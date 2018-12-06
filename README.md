@@ -96,3 +96,4 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [The Past, Present, and Future of Open Source](https://softwareengineeringdaily.com/2016/04/08/past-present-future-open-source/) - In this short episode, Nadia talks about origins of open source software, its journey till present days and future of open source.
 - [Productivity at Work](https://frontendhappyhour.com/episodes/a-mixologists-tools/) - Discussion about being productive at work, tools to use for it, how to find the zone of productivity and more things surrounding this topic.
 - [Reading Documentation](https://syntax.fm/show/073/hasty-treat-reading-documentation) - Tips on how to efficiently read various documentations.
+- [The State of JavaScript 2018](https://syntax.fm/show/098/the-state-of-javascript-2018) - Discussion with Sasha, creator of State of JS suvey about the trends of web development, growth of various JS technologies and their future.

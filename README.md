@@ -99,4 +99,4 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Productivity at Work](https://frontendhappyhour.com/episodes/a-mixologists-tools/) - Discussion about being productive at work, tools to use for it, how to find the zone of productivity and more things surrounding this topic.
 - [Reading Documentation](https://syntax.fm/show/073/hasty-treat-reading-documentation) - Tips on how to efficiently read various documentations.
 - [The State of JavaScript 2018](https://syntax.fm/show/098/the-state-of-javascript-2018) - Discussion with Sasha, creator of State of JS suvey about the trends of web development, growth of various JS technologies and their future.
--
+- [Why Tech Careers are great for introverts and extroverts](https://learntocodewith.me/podcast/careers-for-introverts-extroverts/) - Discussion about how introverts vs extroverts makes a good fit for tech roles, suggestions on improving involment of inroverts in meetings.

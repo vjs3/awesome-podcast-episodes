@@ -52,6 +52,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [GraphQL? Here is what you need to know!](https://syntax.fm/show/027/graphql-here-is-what-you-need-to-know) - What is GraphQL? Differences from REST, Relay, Apollo, and other core concepts of GraphQL.
 - [TypeScript with Anders Hejlsberg (Author of TypeScript)](https://devchat.tv/js-jabber/209-jsj-typescript-with-anders-hejlsberg/) - Anders talks about what is typescript, reason for creating it and challenges of creating a programming language.
 - [Whats the deal with npm, yarn and lock files?](https://syntax.fm/show/061/hasty-treat-whats-the-deal-with-npm-yarn-and-lock-files) - Short but informative epsiode about what is npm, yarn, their differences, lock files and how they work in developing applications.
+- [Web Performance](https://frontendhappyhour.com/episodes/web-performance-chugging-our-drinks-down-fast/) - Importance of web performance, its impact on business, measures to increase web performace.
 
 ## Data Structures/Algorithms
 
@@ -79,6 +80,7 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Hiring Engineers with Ammon Bartram, Co-founder of Triplebyte](https://softwareengineeringdaily.com/2015/12/23/hiring-engineers-with-ammon-bartram/) - Ammon talks about problems in hiring good engineers, what growing YCombinator companies look for in a engineer, how triplebyte helps engineers to find a job in YC companies.
 - [How to become well liked at work](https://syntax.fm/show/093/hasty-treat-how-to-become-well-liked-at-work) - Suggestions on how to face difficult situations and be well liked at work.
 - [Senior Engineer](https://frontendhappyhour.com/episodes/senior-engineer-master-brewer/) - What does being a senior software engineer means, when did one become a senior engineer, skill sets required for a senior engineer.
+- [Bad Bugs - Avoiding Burnout When Solving Elusive Problems](https://spec.fm/podcasts/developer-tea/235998) - Suggestions on how to handle bad bugs/hard problems without burning out.
 
 ## Miscellaneous
 
@@ -97,3 +99,4 @@ Contributions are more than welcome, make sure to read the [Contributions Guidel
 - [Productivity at Work](https://frontendhappyhour.com/episodes/a-mixologists-tools/) - Discussion about being productive at work, tools to use for it, how to find the zone of productivity and more things surrounding this topic.
 - [Reading Documentation](https://syntax.fm/show/073/hasty-treat-reading-documentation) - Tips on how to efficiently read various documentations.
 - [The State of JavaScript 2018](https://syntax.fm/show/098/the-state-of-javascript-2018) - Discussion with Sasha, creator of State of JS suvey about the trends of web development, growth of various JS technologies and their future.
+-
